@@ -3,7 +3,7 @@ project(yonsei_oop)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(yonsei_oop main.cpp
+add_executable(yonsei_oop
         assignment-1/problem2.cpp
         assignment-1/problem1.cpp
         assignment-1/problem1_extra.cpp)

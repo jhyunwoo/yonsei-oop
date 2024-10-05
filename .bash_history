@@ -176,3 +176,33 @@ tar -zcvf hw1_2024148005.tar.gz hw1_2024148005/
 tar -zcvf hw1_2024148005.tar.gz hw1_2024148005/
 clear
 exit
+clear
+ls
+clear
+g++ main.cpp 
+./a.out 
+clear
+./a.out A
+./a.out 
+g++ main.cpp 
+./a.out 
+g++ main.cpp 
+g++ main.cpp 
+g++ main.cpp 
+g++ main.cpp 
+./a.out 
+g++ main.cpp 
+./a.out 
+g++ main.cpp 
+./a.out 
+g++ main.cpp 
+./a.out 
+g++ main.cpp 
+./a.out 
+g++ main.cpp 
+./a.out 
+g++ main.cpp 
+./a.out 
+#
+clear
+exit
