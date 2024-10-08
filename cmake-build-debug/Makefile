@@ -201,6 +201,54 @@ assignment-1/problem2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-1/problem2.cpp.s
 .PHONY : assignment-1/problem2.cpp.s
 
+playground/hot-dog-stands.o: playground/hot-dog-stands.cpp.o
+.PHONY : playground/hot-dog-stands.o
+
+# target to build an object file
+playground/hot-dog-stands.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.o
+.PHONY : playground/hot-dog-stands.cpp.o
+
+playground/hot-dog-stands.i: playground/hot-dog-stands.cpp.i
+.PHONY : playground/hot-dog-stands.i
+
+# target to preprocess a source file
+playground/hot-dog-stands.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.i
+.PHONY : playground/hot-dog-stands.cpp.i
+
+playground/hot-dog-stands.s: playground/hot-dog-stands.cpp.s
+.PHONY : playground/hot-dog-stands.s
+
+# target to generate assembly for a file
+playground/hot-dog-stands.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.s
+.PHONY : playground/hot-dog-stands.cpp.s
+
+playground/point.o: playground/point.cpp.o
+.PHONY : playground/point.o
+
+# target to build an object file
+playground/point.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/point.cpp.o
+.PHONY : playground/point.cpp.o
+
+playground/point.i: playground/point.cpp.i
+.PHONY : playground/point.i
+
+# target to preprocess a source file
+playground/point.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/point.cpp.i
+.PHONY : playground/point.cpp.i
+
+playground/point.s: playground/point.cpp.s
+.PHONY : playground/point.s
+
+# target to generate assembly for a file
+playground/point.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/point.cpp.s
+.PHONY : playground/point.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -219,6 +267,12 @@ help:
 	@echo "... assignment-1/problem2.o"
 	@echo "... assignment-1/problem2.i"
 	@echo "... assignment-1/problem2.s"
+	@echo "... playground/hot-dog-stands.o"
+	@echo "... playground/hot-dog-stands.i"
+	@echo "... playground/hot-dog-stands.s"
+	@echo "... playground/point.o"
+	@echo "... playground/point.i"
+	@echo "... playground/point.s"
 .PHONY : help
 
 

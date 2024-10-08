@@ -11,7 +11,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/jhyunwoo/projects/yonsei-oop/assignment-1/problem1.cpp" "CMakeFiles/yonsei_oop.dir/assignment-1/problem1.cpp.o" "gcc" "CMakeFiles/yonsei_oop.dir/assignment-1/problem1.cpp.o.d"
   "/Users/jhyunwoo/projects/yonsei-oop/assignment-1/problem1_extra.cpp" "CMakeFiles/yonsei_oop.dir/assignment-1/problem1_extra.cpp.o" "gcc" "CMakeFiles/yonsei_oop.dir/assignment-1/problem1_extra.cpp.o.d"
   "/Users/jhyunwoo/projects/yonsei-oop/assignment-1/problem2.cpp" "CMakeFiles/yonsei_oop.dir/assignment-1/problem2.cpp.o" "gcc" "CMakeFiles/yonsei_oop.dir/assignment-1/problem2.cpp.o.d"
-  "/Users/jhyunwoo/projects/yonsei-oop/main.cpp" "CMakeFiles/yonsei_oop.dir/main.cpp.o" "gcc" "CMakeFiles/yonsei_oop.dir/main.cpp.o.d"
+  "/Users/jhyunwoo/projects/yonsei-oop/playground/hot-dog-stands.cpp" "CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.o" "gcc" "CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.o.d"
+  "/Users/jhyunwoo/projects/yonsei-oop/playground/point.cpp" "CMakeFiles/yonsei_oop.dir/playground/point.cpp.o" "gcc" "CMakeFiles/yonsei_oop.dir/playground/point.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
