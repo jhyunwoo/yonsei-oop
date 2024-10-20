@@ -352,3 +352,77 @@ diff output1.txt ./test/test1/extra_output/complicated6_output.txt
 diff output1.txt ./test/test1/extra_output/complicated7_output.txt
 ./a.out
 diff output1.txt ./test/test1/extra_output/complicated8_output.txt
+clear
+ls
+clear
+cd playground/
+ls
+clear
+g++ P8-1.cpp 
+./a.out 
+./a.out 
+g++ P8-5.cpp 
+./a.out 
+./a.out 
+g++ P8-5.cpp 
+./a.out 
+./a.out 
+clear
+clear
+cd playground/
+ls
+clear
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+clear
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+./test
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test
+0
+./test
+cd playground/
+g++ -o test ./test.cpp 
+./test
+g++ -o test ./test.cpp 
+./test

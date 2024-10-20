@@ -8,4 +8,10 @@ add_executable(yonsei_oop
         assignment-1/problem1.cpp
         assignment-1/problem1_extra.cpp
         playground/point.cpp
-        playground/hot-dog-stands.cpp)
+        playground/hot-dog-stands.cpp
+        playground/P8-1.cpp
+        playground/P8-2.cpp
+        playground/P8-3.cpp
+        playground/P8-5.cpp
+        playground/test.cpp
+        midterm-exam.cpp)

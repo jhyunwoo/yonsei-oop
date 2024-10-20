@@ -201,6 +201,126 @@ assignment-1/problem2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-1/problem2.cpp.s
 .PHONY : assignment-1/problem2.cpp.s
 
+midterm-exam.o: midterm-exam.cpp.o
+.PHONY : midterm-exam.o
+
+# target to build an object file
+midterm-exam.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o
+.PHONY : midterm-exam.cpp.o
+
+midterm-exam.i: midterm-exam.cpp.i
+.PHONY : midterm-exam.i
+
+# target to preprocess a source file
+midterm-exam.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.i
+.PHONY : midterm-exam.cpp.i
+
+midterm-exam.s: midterm-exam.cpp.s
+.PHONY : midterm-exam.s
+
+# target to generate assembly for a file
+midterm-exam.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.s
+.PHONY : midterm-exam.cpp.s
+
+playground/P8-1.o: playground/P8-1.cpp.o
+.PHONY : playground/P8-1.o
+
+# target to build an object file
+playground/P8-1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o
+.PHONY : playground/P8-1.cpp.o
+
+playground/P8-1.i: playground/P8-1.cpp.i
+.PHONY : playground/P8-1.i
+
+# target to preprocess a source file
+playground/P8-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.i
+.PHONY : playground/P8-1.cpp.i
+
+playground/P8-1.s: playground/P8-1.cpp.s
+.PHONY : playground/P8-1.s
+
+# target to generate assembly for a file
+playground/P8-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.s
+.PHONY : playground/P8-1.cpp.s
+
+playground/P8-2.o: playground/P8-2.cpp.o
+.PHONY : playground/P8-2.o
+
+# target to build an object file
+playground/P8-2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o
+.PHONY : playground/P8-2.cpp.o
+
+playground/P8-2.i: playground/P8-2.cpp.i
+.PHONY : playground/P8-2.i
+
+# target to preprocess a source file
+playground/P8-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.i
+.PHONY : playground/P8-2.cpp.i
+
+playground/P8-2.s: playground/P8-2.cpp.s
+.PHONY : playground/P8-2.s
+
+# target to generate assembly for a file
+playground/P8-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.s
+.PHONY : playground/P8-2.cpp.s
+
+playground/P8-3.o: playground/P8-3.cpp.o
+.PHONY : playground/P8-3.o
+
+# target to build an object file
+playground/P8-3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o
+.PHONY : playground/P8-3.cpp.o
+
+playground/P8-3.i: playground/P8-3.cpp.i
+.PHONY : playground/P8-3.i
+
+# target to preprocess a source file
+playground/P8-3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.i
+.PHONY : playground/P8-3.cpp.i
+
+playground/P8-3.s: playground/P8-3.cpp.s
+.PHONY : playground/P8-3.s
+
+# target to generate assembly for a file
+playground/P8-3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.s
+.PHONY : playground/P8-3.cpp.s
+
+playground/P8-5.o: playground/P8-5.cpp.o
+.PHONY : playground/P8-5.o
+
+# target to build an object file
+playground/P8-5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o
+.PHONY : playground/P8-5.cpp.o
+
+playground/P8-5.i: playground/P8-5.cpp.i
+.PHONY : playground/P8-5.i
+
+# target to preprocess a source file
+playground/P8-5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.i
+.PHONY : playground/P8-5.cpp.i
+
+playground/P8-5.s: playground/P8-5.cpp.s
+.PHONY : playground/P8-5.s
+
+# target to generate assembly for a file
+playground/P8-5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.s
+.PHONY : playground/P8-5.cpp.s
+
 playground/hot-dog-stands.o: playground/hot-dog-stands.cpp.o
 .PHONY : playground/hot-dog-stands.o
 
@@ -249,6 +369,30 @@ playground/point.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/point.cpp.s
 .PHONY : playground/point.cpp.s
 
+playground/test.o: playground/test.cpp.o
+.PHONY : playground/test.o
+
+# target to build an object file
+playground/test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/test.cpp.o
+.PHONY : playground/test.cpp.o
+
+playground/test.i: playground/test.cpp.i
+.PHONY : playground/test.i
+
+# target to preprocess a source file
+playground/test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/test.cpp.i
+.PHONY : playground/test.cpp.i
+
+playground/test.s: playground/test.cpp.s
+.PHONY : playground/test.s
+
+# target to generate assembly for a file
+playground/test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/test.cpp.s
+.PHONY : playground/test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -267,12 +411,30 @@ help:
 	@echo "... assignment-1/problem2.o"
 	@echo "... assignment-1/problem2.i"
 	@echo "... assignment-1/problem2.s"
+	@echo "... midterm-exam.o"
+	@echo "... midterm-exam.i"
+	@echo "... midterm-exam.s"
+	@echo "... playground/P8-1.o"
+	@echo "... playground/P8-1.i"
+	@echo "... playground/P8-1.s"
+	@echo "... playground/P8-2.o"
+	@echo "... playground/P8-2.i"
+	@echo "... playground/P8-2.s"
+	@echo "... playground/P8-3.o"
+	@echo "... playground/P8-3.i"
+	@echo "... playground/P8-3.s"
+	@echo "... playground/P8-5.o"
+	@echo "... playground/P8-5.i"
+	@echo "... playground/P8-5.s"
 	@echo "... playground/hot-dog-stands.o"
 	@echo "... playground/hot-dog-stands.i"
 	@echo "... playground/hot-dog-stands.s"
 	@echo "... playground/point.o"
 	@echo "... playground/point.i"
 	@echo "... playground/point.s"
+	@echo "... playground/test.o"
+	@echo "... playground/test.i"
+	@echo "... playground/test.s"
 .PHONY : help
 
 

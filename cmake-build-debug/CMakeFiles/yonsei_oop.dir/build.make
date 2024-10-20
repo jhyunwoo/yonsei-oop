@@ -139,13 +139,103 @@ CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jhyunwoo/projects/yonsei-oop/playground/hot-dog-stands.cpp -o CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.s
 
+CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o: CMakeFiles/yonsei_oop.dir/flags.make
+CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o: /Users/jhyunwoo/projects/yonsei-oop/playground/P8-1.cpp
+CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o: CMakeFiles/yonsei_oop.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o -MF CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o.d -o CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o -c /Users/jhyunwoo/projects/yonsei-oop/playground/P8-1.cpp
+
+CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jhyunwoo/projects/yonsei-oop/playground/P8-1.cpp > CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.i
+
+CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jhyunwoo/projects/yonsei-oop/playground/P8-1.cpp -o CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.s
+
+CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o: CMakeFiles/yonsei_oop.dir/flags.make
+CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o: /Users/jhyunwoo/projects/yonsei-oop/playground/P8-2.cpp
+CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o: CMakeFiles/yonsei_oop.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o -MF CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o.d -o CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o -c /Users/jhyunwoo/projects/yonsei-oop/playground/P8-2.cpp
+
+CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jhyunwoo/projects/yonsei-oop/playground/P8-2.cpp > CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.i
+
+CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jhyunwoo/projects/yonsei-oop/playground/P8-2.cpp -o CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.s
+
+CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o: CMakeFiles/yonsei_oop.dir/flags.make
+CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o: /Users/jhyunwoo/projects/yonsei-oop/playground/P8-3.cpp
+CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o: CMakeFiles/yonsei_oop.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o -MF CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o.d -o CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o -c /Users/jhyunwoo/projects/yonsei-oop/playground/P8-3.cpp
+
+CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jhyunwoo/projects/yonsei-oop/playground/P8-3.cpp > CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.i
+
+CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jhyunwoo/projects/yonsei-oop/playground/P8-3.cpp -o CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.s
+
+CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o: CMakeFiles/yonsei_oop.dir/flags.make
+CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o: /Users/jhyunwoo/projects/yonsei-oop/playground/P8-5.cpp
+CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o: CMakeFiles/yonsei_oop.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o -MF CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o.d -o CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o -c /Users/jhyunwoo/projects/yonsei-oop/playground/P8-5.cpp
+
+CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jhyunwoo/projects/yonsei-oop/playground/P8-5.cpp > CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.i
+
+CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jhyunwoo/projects/yonsei-oop/playground/P8-5.cpp -o CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.s
+
+CMakeFiles/yonsei_oop.dir/playground/test.cpp.o: CMakeFiles/yonsei_oop.dir/flags.make
+CMakeFiles/yonsei_oop.dir/playground/test.cpp.o: /Users/jhyunwoo/projects/yonsei-oop/playground/test.cpp
+CMakeFiles/yonsei_oop.dir/playground/test.cpp.o: CMakeFiles/yonsei_oop.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/yonsei_oop.dir/playground/test.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/yonsei_oop.dir/playground/test.cpp.o -MF CMakeFiles/yonsei_oop.dir/playground/test.cpp.o.d -o CMakeFiles/yonsei_oop.dir/playground/test.cpp.o -c /Users/jhyunwoo/projects/yonsei-oop/playground/test.cpp
+
+CMakeFiles/yonsei_oop.dir/playground/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/yonsei_oop.dir/playground/test.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jhyunwoo/projects/yonsei-oop/playground/test.cpp > CMakeFiles/yonsei_oop.dir/playground/test.cpp.i
+
+CMakeFiles/yonsei_oop.dir/playground/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/yonsei_oop.dir/playground/test.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jhyunwoo/projects/yonsei-oop/playground/test.cpp -o CMakeFiles/yonsei_oop.dir/playground/test.cpp.s
+
+CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o: CMakeFiles/yonsei_oop.dir/flags.make
+CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o: /Users/jhyunwoo/projects/yonsei-oop/midterm-exam.cpp
+CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o: CMakeFiles/yonsei_oop.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o -MF CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o.d -o CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o -c /Users/jhyunwoo/projects/yonsei-oop/midterm-exam.cpp
+
+CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jhyunwoo/projects/yonsei-oop/midterm-exam.cpp > CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.i
+
+CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jhyunwoo/projects/yonsei-oop/midterm-exam.cpp -o CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.s
+
 # Object files for target yonsei_oop
 yonsei_oop_OBJECTS = \
 "CMakeFiles/yonsei_oop.dir/assignment-1/problem2.cpp.o" \
 "CMakeFiles/yonsei_oop.dir/assignment-1/problem1.cpp.o" \
 "CMakeFiles/yonsei_oop.dir/assignment-1/problem1_extra.cpp.o" \
 "CMakeFiles/yonsei_oop.dir/playground/point.cpp.o" \
-"CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.o"
+"CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.o" \
+"CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o" \
+"CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o" \
+"CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o" \
+"CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o" \
+"CMakeFiles/yonsei_oop.dir/playground/test.cpp.o" \
+"CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o"
 
 # External object files for target yonsei_oop
 yonsei_oop_EXTERNAL_OBJECTS =
@@ -155,9 +245,15 @@ yonsei_oop: CMakeFiles/yonsei_oop.dir/assignment-1/problem1.cpp.o
 yonsei_oop: CMakeFiles/yonsei_oop.dir/assignment-1/problem1_extra.cpp.o
 yonsei_oop: CMakeFiles/yonsei_oop.dir/playground/point.cpp.o
 yonsei_oop: CMakeFiles/yonsei_oop.dir/playground/hot-dog-stands.cpp.o
+yonsei_oop: CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o
+yonsei_oop: CMakeFiles/yonsei_oop.dir/playground/P8-2.cpp.o
+yonsei_oop: CMakeFiles/yonsei_oop.dir/playground/P8-3.cpp.o
+yonsei_oop: CMakeFiles/yonsei_oop.dir/playground/P8-5.cpp.o
+yonsei_oop: CMakeFiles/yonsei_oop.dir/playground/test.cpp.o
+yonsei_oop: CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o
 yonsei_oop: CMakeFiles/yonsei_oop.dir/build.make
 yonsei_oop: CMakeFiles/yonsei_oop.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable yonsei_oop"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jhyunwoo/projects/yonsei-oop/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable yonsei_oop"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/yonsei_oop.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
