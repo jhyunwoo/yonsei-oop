@@ -267,7 +267,7 @@ int main()
 
     /* Class */
     printTitle("Class");
-    User user1 = User("Hyunwoo", 20, 0, 180.7, "Yonsei Univ.");
+    User user1("Hyunwoo", 20, 0, 180.7, "Yonsei Univ.");
     user1.output();
     User anonymous; // argument 없이 class 선언
     anonymous.output();
@@ -284,11 +284,11 @@ int main()
     User::countryOut();
 
     /* Operator in class */
-    Item item1 = Item("Hello", 1);
-    Item item2 = Item("world", 2);
+     Item item1("Hello", 1);
+    Item item2("world", 2);
     Item upgrade = item1 + item2;
     cout << upgrade.getLevel() << endl;
-    Item newItem = Item("New", 3);
+    Item newItem("New", 3);
     cout << newItem.getLevel() << endl;
     cout << upgrade.getLevel() << endl;
     cout << newItem.getName() << endl;

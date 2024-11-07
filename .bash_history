@@ -1,104 +1,3 @@
-clear
-ls
-clear
-cd assignment-1/
-ls
-g++ -o problem1 ./problem1.cpp
-./problem1
-diff output1.txt ./test/test1/output/basic1_output.txt 
-diff output1.txt ./test/test1/output/basic1_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/basic2_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/basic3_output.txt 
-diff output1.txt ./test/test1/output/basic3_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/basiccomplicated1_output.txt 
-diff output1.txt ./test/test1/output/complicated1_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/complicated2_output.txt 
-./problem1
-clear
-./problem1
-diff output1.txt ./test/test1/output/complicated3_output.txt 
-diff output1.txt ./test/test1/output/complicated3_output.txt 
-diff output1.txt ./test/test1/output/complicated3_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/complicated4_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/complicated5_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/complicated6_output.txt 
-./problem1
-./problem1
-diff output1.txt ./test/test1/output/complicated7_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/complicated8_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/larger_x0_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/multiple_loop_output.txt 
-./problem1
-clear
-./problem1
-diff output1.txt ./test/test1/output/multiple_loop2_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/negative_coefficients_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/negative_coefficients2_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/negative_x_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/negative_x2_output.txt 
-./problem1
-diff output1.txt ./test/test1/output/zero_output.txt 
-./problem1
-ls
-g++ -0 problem1_extra ./problem1_extra.cpp 
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated1_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated1_output.txt 
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated1_output.txt 
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated1_output.txt 
-./problem1_extra
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated3_output.txt 
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated3_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated5_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated6_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated7_output.txt 
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-g++ -o problem1_extra ./problem1_extra.cpp 
-./problem1_extra
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated7_output.txt 
 ./problem1_extra
 diff output1.txt ./test/test1/extra_output/complicated8_output.txt 
 ./problem1_extra
@@ -426,3 +325,176 @@ g++ -o test ./test.cpp
 ./test
 g++ -o test ./test.cpp 
 ./test
+clear
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+clear
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+1
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+g++ -o midterm-exam ./midterm-exam.cpp 
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+1
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+g++ -o midterm-exam ./midterm-exam.cpp 
+./midterm-exam
+cd playground/
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+cd playground/
+g++ -o test ./test.cpp
+./test
+clear
+cd playground/
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+g++ -o test ./test.cpp
+./test
+clear
+cd playground/
+ls
+g++ -o test ./test.cpp
+clear
+vim test.cpp
+g++ -o test ./test.cpp
+vim test.cpp
+g++ -o test ./test.cpp
+./test
+clear
+ls
+cd assignment-2
+ls
+cd problem_1/
+ls
+g++ -o problem1 ./problem1.cpp 
+./problem1
+./problem1
+diff output1.txt answer1.txt 
+cd ..
+cd problem_2
+ls
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input1.txt 
+./problem2 input1.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input1.txt 
+./problem2 input1.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+diff test_diary answer1.txt 
+./problem2 input2.txt 
+diff test_diary answer2.txt 
+diff test_diary answer2.txt 
+./problem2 input2.txt 
+diff test_diary answer2.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input2.txt 
+diff test_diary answer2.txt 
+./problem2 input1.txt 
+./problem2 input2.txt 
+diff test_diary answer2.txt 
+./problem2 input3.txt 
+diff test_diary answer3.txt 
+exit

@@ -14,4 +14,6 @@ add_executable(yonsei_oop
         playground/P8-3.cpp
         playground/P8-5.cpp
         playground/test.cpp
-        midterm-exam.cpp)
+        midterm-exam.cpp
+        assignment-2/problem_1/problem1.cpp
+        assignment-2/problem_2/problem2.cpp)

@@ -16,7 +16,7 @@ int main(){
 	int loopNum;
 
 	ofstream outfile;
-	outfile.open("output1.txt");
+	outfile.open("answer1.txt");
 
 	cout << "Enter the number of interations for the loop: ";
 	cin >> loopNum;

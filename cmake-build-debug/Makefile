@@ -201,6 +201,54 @@ assignment-1/problem2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-1/problem2.cpp.s
 .PHONY : assignment-1/problem2.cpp.s
 
+assignment-2/problem_1/problem1.o: assignment-2/problem_1/problem1.cpp.o
+.PHONY : assignment-2/problem_1/problem1.o
+
+# target to build an object file
+assignment-2/problem_1/problem1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-2/problem_1/problem1.cpp.o
+.PHONY : assignment-2/problem_1/problem1.cpp.o
+
+assignment-2/problem_1/problem1.i: assignment-2/problem_1/problem1.cpp.i
+.PHONY : assignment-2/problem_1/problem1.i
+
+# target to preprocess a source file
+assignment-2/problem_1/problem1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-2/problem_1/problem1.cpp.i
+.PHONY : assignment-2/problem_1/problem1.cpp.i
+
+assignment-2/problem_1/problem1.s: assignment-2/problem_1/problem1.cpp.s
+.PHONY : assignment-2/problem_1/problem1.s
+
+# target to generate assembly for a file
+assignment-2/problem_1/problem1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-2/problem_1/problem1.cpp.s
+.PHONY : assignment-2/problem_1/problem1.cpp.s
+
+assignment-2/problem_2/problem2.o: assignment-2/problem_2/problem2.cpp.o
+.PHONY : assignment-2/problem_2/problem2.o
+
+# target to build an object file
+assignment-2/problem_2/problem2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-2/problem_2/problem2.cpp.o
+.PHONY : assignment-2/problem_2/problem2.cpp.o
+
+assignment-2/problem_2/problem2.i: assignment-2/problem_2/problem2.cpp.i
+.PHONY : assignment-2/problem_2/problem2.i
+
+# target to preprocess a source file
+assignment-2/problem_2/problem2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-2/problem_2/problem2.cpp.i
+.PHONY : assignment-2/problem_2/problem2.cpp.i
+
+assignment-2/problem_2/problem2.s: assignment-2/problem_2/problem2.cpp.s
+.PHONY : assignment-2/problem_2/problem2.s
+
+# target to generate assembly for a file
+assignment-2/problem_2/problem2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-2/problem_2/problem2.cpp.s
+.PHONY : assignment-2/problem_2/problem2.cpp.s
+
 midterm-exam.o: midterm-exam.cpp.o
 .PHONY : midterm-exam.o
 
@@ -411,6 +459,12 @@ help:
 	@echo "... assignment-1/problem2.o"
 	@echo "... assignment-1/problem2.i"
 	@echo "... assignment-1/problem2.s"
+	@echo "... assignment-2/problem_1/problem1.o"
+	@echo "... assignment-2/problem_1/problem1.i"
+	@echo "... assignment-2/problem_1/problem1.s"
+	@echo "... assignment-2/problem_2/problem2.o"
+	@echo "... assignment-2/problem_2/problem2.i"
+	@echo "... assignment-2/problem_2/problem2.s"
 	@echo "... midterm-exam.o"
 	@echo "... midterm-exam.i"
 	@echo "... midterm-exam.s"

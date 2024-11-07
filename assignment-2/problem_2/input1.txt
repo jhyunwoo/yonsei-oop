@@ -1,0 +1,12 @@
+test_diary
+first line
+second line
+\quit
+third line
+fourth line
+\save
+fifth line
+sixth line
+\save
+seventh line
+\esc

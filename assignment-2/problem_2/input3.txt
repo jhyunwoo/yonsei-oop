@@ -1,0 +1,11 @@
+test_diary
+\o
+overwritten line 1
+overwritten line 2
+\quit
+overwritten line 3
+overwritten line 4
+\save
+\esc
+overwritten line 5
+overwritten line 6
