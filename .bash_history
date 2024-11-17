@@ -1,74 +1,3 @@
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/complicated8_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/larger_x0_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/negative_coefficients_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/negative_coefficients2_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/negative_x_output.txt 
-./problem1_extra
-diff output1.txt ./test/test1/extra_output/negative_x2_output.txt 
-clear
-ls
-clear
-ls
-clear
-g++ -o problem2 ./problem2.cpp
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-diff answer2.txt output2.txt
-clear
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-diff answer2.txt output2.txt
-g++ -o problem2 ./problem2.cpp
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-./problem2 > output2.txt
-diff answer2.txt output2.txt
-#
 ls
 clear
 tar -zcvf hw1_2024148005.tar.gz hw1_2024148005/
@@ -498,3 +427,74 @@ diff test_diary answer2.txt
 ./problem2 input3.txt 
 diff test_diary answer3.txt 
 exit
+clear
+cd assignment-2
+ls
+cd problem_1
+clear
+ls
+g++ -o problem1 ./problem1.cpp 
+./problem1
+diff answer1.txt output1.txt 
+cd ..
+cd problem_2
+ls
+rm test_diary 
+ls
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input1.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input2.txt 
+g++ -o problem2 ./problem2.cpp 
+g++ -o problem2 ./problem2.cpp 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input2.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input2.txt 
+diff test_diary.txt answer2.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input1.txt 
+./problem2 input2.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input1.txt 
+./problem2 input2.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input2.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input2.txt 
+g++ -o problem2 ./problem2.cpp 
+./problem2 input2.txt 
+./problem2 input1.txt 
+./problem2 input2.txt 
+diff test_diary.txt answer2.txt 
+./problem2 input3.txt 
+diff test_diary.txt answer3.txt 
+ls
+cd ..
+ls
+tar -zcvf hw2_2024148005.tar.gz hw2_2024148005/
+exit
+cd assignment-2
+ls
+cd problem_1
+./problem1
+g++ -o problem1 ./problem1.cpp 
+./problem1
+./problem1
+./problem1
+./problem1
+./problem1
+./problem1
+./problem1
+clear
+g++ -o problem1 ./problem1.cpp 
+./problem1
+./problem1
+./problem1
