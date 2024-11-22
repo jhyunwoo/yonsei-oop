@@ -1,7 +1,7 @@
 # Command
 ## Build
 ```bash
-docker build -t cpp-env 
+docker build -t cpp-env .
 ```
 
 ## Run
