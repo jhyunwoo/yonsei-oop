@@ -18,4 +18,8 @@ add_executable(yonsei_oop
         final-exam.cpp
         assignment-2/problem_1/problem1.cpp
         assignment-2/problem_2/problem2.cpp
-        final-exam.cpp)
+        final-exam.cpp
+        pointer.cpp
+        multiple-files/main.cpp
+        multiple-files/hello_world.cpp
+        multiple-files/hello_world.h)

@@ -1,114 +1,3 @@
-tar -zcvf hw1_2024148005.tar.gz hw1_2024148005/
-tar -zcvf hw1_2024148005.tar.gz hw1_2024148005/
-clear
-exit
-clear
-ls
-clear
-g++ main.cpp 
-./a.out 
-clear
-./a.out A
-./a.out 
-g++ main.cpp 
-./a.out 
-g++ main.cpp 
-g++ main.cpp 
-g++ main.cpp 
-g++ main.cpp 
-./a.out 
-g++ main.cpp 
-./a.out 
-g++ main.cpp 
-./a.out 
-g++ main.cpp 
-./a.out 
-g++ main.cpp 
-./a.out 
-g++ main.cpp 
-./a.out 
-g++ main.cpp 
-./a.out 
-#
-clear
-exit
-ckear
-clear
-ls
-clear
-ls
-clear
-cd assignment-1/
-clear
-ls
-clear
-rm porblem1
-ls
-rm problem1
-clear
-rm problem1_extra
-clear
-ls
-rm problem2
-clear
-ls
-clear
-g++ -o problem1 ./problem1.cpp 
-./problem1
-diff output1.txt /output/basic1_output.txt
-diff output1.txt ./output/basic1_output.txt
-ls
-cd output
-diff output1.txt ./test/test1/output/basic1_output.txt
-./problem1
-diff output1.txt ./test/test1/output/basic2_output.txt
-clear
-ls
-mkdir playground
-ls
-cd playground/
-clear
-touch point.cpp
-g++ point.cpp 
-touch point.cpp
-ls
-g++ point.cpp 
-./a.out 
-g++ point.cpp 
-g++ point.cpp 
-./a.out 
-g++ point.cpp 
-g++ point.cpp 
-./a.out 
-g++ hot-dog-stands.cpp 
-./a.out 
-g++ hot-dog-stands.cpp 
-./a.out 
-eixt
-exit
-clear
-cd assignment-1/
-ls
-rm problem1
-rm problem2
-ls
-clear
-rm ls
-ls
-ls
-clear
-rm test.zip 
-ls
-g++ -o problem1 ./problem1.cpp
-./problem1
-diff output1.txt ./test/test1/output/basic1_output.txt
-diff output1.txt ./test/test1/output/basic1_output.txt
-./problem1
-diff output1.txt ./test/test1/output/basic2_output.txt
-./problem1
-diff output1.txt ./test/test1/output/basic3_output.txt
-diff output1.txt ./test/test1/output/basic3_output.txt
-./problem1
 diff output1.txt ./test/test1/output/basic3_output.txt
 ./problem1
 ./problem1
@@ -497,4 +386,115 @@ g++ -o problem1 ./problem1.cpp
 ./problem1
 ./problem1
 clear
+exit
+clear
+ls
+clear
+run.sh
+ls
+ls
+run.sh
+./run.sh 
+sudo ./run.sh 
+clear
+chmod +x run.sh
+clear
+./run.sh 
+./run.sh 
+clear
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+clear
+clear
+./run.sh 
+clear
+clear
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+clear
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+clear
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+clear
+clear
+clear
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+./run.sh 
+cd multiple-files/
+g++ -o hello_world hello_world.cpp main.cpp
+g++ -o main.o -c hello_world.cpp
+g++ -o hello_world.o -c hello_world.cpp
+g++ -o hello_world main.o hello_world.o
+g++ -o ./hello_world main.o hello_world.o
+g++ -o main  hello_world.o main.o
+clear
+g++ -o main hello_world.o main.o
+clear
+ls
+g++ -c main.cpp 
+g++ -c hello_world.cpp
+g++ main.o hello_world.o -o program
+./program 
+g++ -c main.cpp 
+g++ -c main.cpp 
+g++ -c main.cpp 
+g++ -c main.cpp 
+g++ -c main.cpp 
+g++ -c hello_world.cpp
+g++ main.o hello_world.o -o program
+./program 
+g++ -c main.cpp 
+chmod -x run.sh 
+./run.sh 
+chmod -x run.sh 
+./run.sh 
+chmod +x run.sh 
+./run.sh 
+./run.sh 
 exit

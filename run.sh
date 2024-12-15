@@ -1,2 +1,2 @@
-g++ -o ./final-exam ./final-exam.cpp
-./final-exam
+g++ -o ./pointer ./pointer.cpp
+./pointer

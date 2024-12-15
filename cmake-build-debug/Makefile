@@ -297,6 +297,54 @@ midterm-exam.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.s
 .PHONY : midterm-exam.cpp.s
 
+multiple-files/hello_world.o: multiple-files/hello_world.cpp.o
+.PHONY : multiple-files/hello_world.o
+
+# target to build an object file
+multiple-files/hello_world.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/multiple-files/hello_world.cpp.o
+.PHONY : multiple-files/hello_world.cpp.o
+
+multiple-files/hello_world.i: multiple-files/hello_world.cpp.i
+.PHONY : multiple-files/hello_world.i
+
+# target to preprocess a source file
+multiple-files/hello_world.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/multiple-files/hello_world.cpp.i
+.PHONY : multiple-files/hello_world.cpp.i
+
+multiple-files/hello_world.s: multiple-files/hello_world.cpp.s
+.PHONY : multiple-files/hello_world.s
+
+# target to generate assembly for a file
+multiple-files/hello_world.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/multiple-files/hello_world.cpp.s
+.PHONY : multiple-files/hello_world.cpp.s
+
+multiple-files/main.o: multiple-files/main.cpp.o
+.PHONY : multiple-files/main.o
+
+# target to build an object file
+multiple-files/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/multiple-files/main.cpp.o
+.PHONY : multiple-files/main.cpp.o
+
+multiple-files/main.i: multiple-files/main.cpp.i
+.PHONY : multiple-files/main.i
+
+# target to preprocess a source file
+multiple-files/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/multiple-files/main.cpp.i
+.PHONY : multiple-files/main.cpp.i
+
+multiple-files/main.s: multiple-files/main.cpp.s
+.PHONY : multiple-files/main.s
+
+# target to generate assembly for a file
+multiple-files/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/multiple-files/main.cpp.s
+.PHONY : multiple-files/main.cpp.s
+
 playground/P8-1.o: playground/P8-1.cpp.o
 .PHONY : playground/P8-1.o
 
@@ -465,6 +513,30 @@ playground/test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/playground/test.cpp.s
 .PHONY : playground/test.cpp.s
 
+pointer.o: pointer.cpp.o
+.PHONY : pointer.o
+
+# target to build an object file
+pointer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/pointer.cpp.o
+.PHONY : pointer.cpp.o
+
+pointer.i: pointer.cpp.i
+.PHONY : pointer.i
+
+# target to preprocess a source file
+pointer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/pointer.cpp.i
+.PHONY : pointer.cpp.i
+
+pointer.s: pointer.cpp.s
+.PHONY : pointer.s
+
+# target to generate assembly for a file
+pointer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/pointer.cpp.s
+.PHONY : pointer.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -495,6 +567,12 @@ help:
 	@echo "... midterm-exam.o"
 	@echo "... midterm-exam.i"
 	@echo "... midterm-exam.s"
+	@echo "... multiple-files/hello_world.o"
+	@echo "... multiple-files/hello_world.i"
+	@echo "... multiple-files/hello_world.s"
+	@echo "... multiple-files/main.o"
+	@echo "... multiple-files/main.i"
+	@echo "... multiple-files/main.s"
 	@echo "... playground/P8-1.o"
 	@echo "... playground/P8-1.i"
 	@echo "... playground/P8-1.s"
@@ -516,6 +594,9 @@ help:
 	@echo "... playground/test.o"
 	@echo "... playground/test.i"
 	@echo "... playground/test.s"
+	@echo "... pointer.o"
+	@echo "... pointer.i"
+	@echo "... pointer.s"
 .PHONY : help
 
 
