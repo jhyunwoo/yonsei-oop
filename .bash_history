@@ -1,5 +1,3 @@
-ls
-clear
 tar -zcvf hw1_2024148005.tar.gz hw1_2024148005/
 tar -zcvf hw1_2024148005.tar.gz hw1_2024148005/
 clear
@@ -498,3 +496,5 @@ g++ -o problem1 ./problem1.cpp
 ./problem1
 ./problem1
 ./problem1
+clear
+exit

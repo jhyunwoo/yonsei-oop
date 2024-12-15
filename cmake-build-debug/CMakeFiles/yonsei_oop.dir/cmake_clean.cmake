@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/yonsei_oop.dir/assignment-2/problem_1/problem1.cpp.o.d"
   "CMakeFiles/yonsei_oop.dir/assignment-2/problem_2/problem2.cpp.o"
   "CMakeFiles/yonsei_oop.dir/assignment-2/problem_2/problem2.cpp.o.d"
+  "CMakeFiles/yonsei_oop.dir/final-exam.cpp.o"
+  "CMakeFiles/yonsei_oop.dir/final-exam.cpp.o.d"
   "CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o"
   "CMakeFiles/yonsei_oop.dir/midterm-exam.cpp.o.d"
   "CMakeFiles/yonsei_oop.dir/playground/P8-1.cpp.o"

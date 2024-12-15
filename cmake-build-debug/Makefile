@@ -249,6 +249,30 @@ assignment-2/problem_2/problem2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/assignment-2/problem_2/problem2.cpp.s
 .PHONY : assignment-2/problem_2/problem2.cpp.s
 
+final-exam.o: final-exam.cpp.o
+.PHONY : final-exam.o
+
+# target to build an object file
+final-exam.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/final-exam.cpp.o
+.PHONY : final-exam.cpp.o
+
+final-exam.i: final-exam.cpp.i
+.PHONY : final-exam.i
+
+# target to preprocess a source file
+final-exam.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/final-exam.cpp.i
+.PHONY : final-exam.cpp.i
+
+final-exam.s: final-exam.cpp.s
+.PHONY : final-exam.s
+
+# target to generate assembly for a file
+final-exam.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/yonsei_oop.dir/build.make CMakeFiles/yonsei_oop.dir/final-exam.cpp.s
+.PHONY : final-exam.cpp.s
+
 midterm-exam.o: midterm-exam.cpp.o
 .PHONY : midterm-exam.o
 
@@ -465,6 +489,9 @@ help:
 	@echo "... assignment-2/problem_2/problem2.o"
 	@echo "... assignment-2/problem_2/problem2.i"
 	@echo "... assignment-2/problem_2/problem2.s"
+	@echo "... final-exam.o"
+	@echo "... final-exam.i"
+	@echo "... final-exam.s"
 	@echo "... midterm-exam.o"
 	@echo "... midterm-exam.i"
 	@echo "... midterm-exam.s"
