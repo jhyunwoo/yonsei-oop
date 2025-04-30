@@ -5,6 +5,7 @@
 #include <iostream>
 using std::cout;
 using std::endl;
+#include "hello_world.h"
 
 namespace Special
 {
@@ -25,11 +26,10 @@ namespace Special
 
 }
 
-using namespace  Special;
 
 int main()
 {
-    hello_world();
-    swapValues("char", "dddd");
+    hello_world a;
+    a.sayHello();
     return 0;
 }
